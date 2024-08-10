@@ -1,0 +1,20 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Aula ao vivo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFazioni/Aula01.git"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFazioni/Aula01/issues"
+  },
+  "homepage": "https://github.com/MFazioni/Aula01#readme"
+}
